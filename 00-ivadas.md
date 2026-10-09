@@ -1,6 +1,6 @@
 # Lietuvos Respublikos fizinių asmenų bankroto įstatymo komentaras
 
-> **Apie komentarą:** Komentaro dalykas – Lietuvos Respublikos fizinių asmenų bankroto įstatymas (2012 m. gegužės 10 d. Nr. XI-2000), aptariamas straipsnis po straipsnio – **35 struktūriniai vienetai** (33 straipsniai, įskaitant vėliau įterptą 4-1 straipsnį, ir įstatymo priedas). Prie kiekvieno vieneto pateikiamas tikslus straipsnio tekstas ir komentaras.
+> **Apie komentarą:** Komentaro dalykas – Lietuvos Respublikos fizinių asmenų bankroto įstatymas (2012 m. gegužės 10 d. Nr. XI-2000), aptariamas straipsnis po straipsnio – **35 struktūriniai vienetai** (33 straipsniai, įskaitant vėliau įterptą 4¹ straipsnį, ir įstatymo priedas). Prie kiekvieno vieneto pateikiamas tikslus straipsnio tekstas ir komentaras.
 
 ## Pagrindiniai duomenys
 
@@ -17,7 +17,7 @@
 Įstatymą sudaro dešimt skirsnių ir priedas:
 
 - I skirsnis – Bendrosios nuostatos (1–3 straipsniai)
-- II skirsnis – Fizinio asmens bankroto procesas (4–10 straipsniai, įskaitant 4-1 straipsnį)
+- II skirsnis – Fizinio asmens bankroto procesas (4–10 straipsniai, įskaitant 4¹ straipsnį)
 - III skirsnis – Bankroto administratorius (11–15 straipsniai)
 - IV skirsnis – Fizinio asmens pareigos ir teisės bankroto proceso metu (16–17 straipsniai)
 - V skirsnis – Fizinio asmens, kreditorių ir trečiųjų asmenų interesų gynimas (18–22 straipsniai)
@@ -37,7 +37,7 @@ Komentaras suskirstytas į du skyrius: **1 skyrius** apima I–III skirsnius (pr
 ## Metodas
 
 - Straipsnių tekstas perkeltas **pažodžiui** iš oficialios e-TAR suvestinės redakcijos, mašininiu būdu, be santrumpų ir praleidimų. Netekusios galios dalys ir punktai pateikiami taip, kaip jie nurodyti suvestinėje redakcijoje (pvz., „neteko galios nuo 2020-01-01“).
-- Šaltinio tekste 4-1 straipsnio numeris dėl prarasto viršutinio indekso užrašytas kaip „41 straipsnis“; komentare šis straipsnis žymimas „4-1 straipsnis“, o jo tekstas paliktas nepakeistas.
+- Straipsnių numeriai su viršutiniu indeksu pateikiami taip, kaip jie užrašyti šaltinyje (pvz., „4¹ straipsnis“).
 - e-TAR redakcinės pastabos (informacija apie straipsnių, dalių ir punktų pakeitimus, papildymus, numeracijos pakeitimus ir „TAR pastabos“) pateikiamos po atitinkamo straipsnio teksto kaip atskiros pastabos su nuoroda į dalį ar punktą, kuriam jos skirtos.
 - Komentaras parengtas **tik remiantis vietiniais šaltiniais** (oficialus teisės akto tekstas ir jo metaduomenys), nenaudojant komercinių teisinių duomenų bazių. **Teismų praktika į šią versiją neįtraukta** – Konstitucinio Teismo nutarimai minimi tik tiek, kiek jie nurodyti pačioje suvestinėje redakcijoje kaip teksto pakeitimų šaltinis. Teismų praktika bus papildyta atskiru etapu, kaip ir kituose autoriaus komentaruose.
 - Nuorodos į kitus teisės aktus (Civilinį kodeksą, Civilinio proceso kodeksą, Baudžiamąjį kodeksą, Juridinių asmenų nemokumo įstatymą ir kt.) pateikiamos tik tiek, kiek jos išplaukia iš paties komentuojamo įstatymo teksto.

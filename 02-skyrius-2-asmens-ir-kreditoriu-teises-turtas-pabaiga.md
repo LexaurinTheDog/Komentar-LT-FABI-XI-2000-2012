@@ -386,7 +386,7 @@ Finansinės ir turtinės teisės: tvirtinti ir keisti administravimo išlaidų s
 
 4 dalis leidžia asmeniui iki varžytynių paskelbimo pasiūlyti pirkėją; jei pirkėjas įmoka ne mažesnę už pradinę kainą sumą, varžytynės neskelbiamos. 5 dalis leidžia kreditorių susirinkimo sutikimu perduoti neparduotą turtą kreditoriui, su skirtumo įmokėjimu, jei turto kaina viršija reikalavimą. 6 dalis supaprastina formą: nekilnojamojo turto pirkimo–pardavimo sutartis sudaroma raštu, o sutartis, varžytynių ar perdavimo aktas yra nuosavybę patvirtinantys dokumentai ir neturi būti notarinės formos.
 
-7 ir 8 dalys reglamentuoja bendrąją nuosavybę: nenustačius asmens dalies, jos nustatymo kreipiamasi į teismą, kuris nustato ir naudojimosi tvarka; jei bankroto byla iškelta ne visiems bendraturčiams, o antstolis nukreipęs išieškojimą į kitų bendraturčių dalis, teismas, gavęs visų bendraturčių sutikimą, gali leisti parduoti visą turtą, jei tai tikėtinai leistų gauti didesnę kainą; lėšos dalijamos proporcingai (plg. 4-1 straipsnį).
+7 ir 8 dalys reglamentuoja bendrąją nuosavybę: nenustačius asmens dalies, jos nustatymo kreipiamasi į teismą, kuris nustato ir naudojimosi tvarka; jei bankroto byla iškelta ne visiems bendraturčiams, o antstolis nukreipęs išieškojimą į kitų bendraturčių dalis, teismas, gavęs visų bendraturčių sutikimą, gali leisti parduoti visą turtą, jei tai tikėtinai leistų gauti didesnę kainą; lėšos dalijamos proporcingai (plg. 4¹ straipsnį).
 
 ### 28 straipsnis — Atskirų rūšių turto pardavimo ypatumai
 

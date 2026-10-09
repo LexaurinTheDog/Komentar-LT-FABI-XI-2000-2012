@@ -1,6 +1,6 @@
 # Lietuvos Respublikos fizinių asmenų bankroto įstatymo komentaras
 
-Lietuvos teisės akto komentaras: **Lietuvos Respublikos fizinių asmenų bankroto įstatymas** (2012 m. gegužės 10 d. Nr. XI-2000; Žin. 2012, Nr. 57-2823; i. k. 1121010ISTA0XI-2000). Apima **35 struktūrinius vienetus** (33 straipsnius, įskaitant 4-1 straipsnį, ir įstatymo priedą) 2 komentaro skyriuose; prie kiekvieno vieneto pateikiamas tikslus straipsnio tekstas ir komentaras.
+Lietuvos teisės akto komentaras: **Lietuvos Respublikos fizinių asmenų bankroto įstatymas** (2012 m. gegužės 10 d. Nr. XI-2000; Žin. 2012, Nr. 57-2823; i. k. 1121010ISTA0XI-2000). Apima **35 struktūrinius vienetus** (33 straipsnius, įskaitant 4¹ straipsnį, ir įstatymo priedą) 2 komentaro skyriuose; prie kiekvieno vieneto pateikiamas tikslus straipsnio tekstas ir komentaras.
 
 Teisinis reguliavimas pateikiamas pagal: **suvestinę redakciją nuo 2024-10-25** (e-TAR, suvestinės redakcijos identifikatorius `FIvSzSVojn`).
 

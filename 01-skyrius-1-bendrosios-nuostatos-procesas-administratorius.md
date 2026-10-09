@@ -128,7 +128,7 @@ Svarbiausia yra 2 dalis, kurioje įtvirtintas materialusis bankroto bylos iškė
 
 5–7 dalys reguliuoja administratoriaus kandidatūrą: jei ją siūlo pats asmuo, pridedamas administratoriaus sutikimas ir lėšų, reikalingų procedūroms iki plano patvirtinimo, pagrindimas; jei ne – kandidatūrą siūlo Vyriausybės įgaliota institucija (13 straipsnio 9 dalis). 8 dalis leidžia teikti ir kitus svarbius dokumentus.
 
-### 4-1 straipsnis — Fizinių asmenų bankrotas pagal vieną bylą
+### 4¹ straipsnis — Fizinių asmenų bankrotas pagal vieną bylą
 
 **Straipsnio tekstas:**
 
@@ -140,7 +140,7 @@ Svarbiausia yra 2 dalis, kurioje įtvirtintas materialusis bankroto bylos iškė
 
 *e-TAR redakcinė pastaba:* Papildyta straipsniu: Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 
-4-1 straipsnis (oficialiame suvestinės redakcijos tekste jis numeruojamas su indeksu, šaltinyje užrašytas kaip „41 straipsnis“) įtvirtina galimybę keliems fiziniams asmenims bankrutuoti pagal vieną bylą. 1 dalis nustato materialiąją sąlygą: asmenis turi sieti bendras turtas ir (ar) bendros prievolės kreditoriams. Tipiškas atvejis – sutuoktiniai, turintys bendrą būstą ir bendrus kreditus, tačiau įstatymo formuluotė neapsiriboja sutuoktiniais; lemiamas kriterijus yra turtinis ir prievolinis ryšys.
+4¹ straipsnis įtvirtina galimybę keliems fiziniams asmenims bankrutuoti pagal vieną bylą. 1 dalis nustato materialiąją sąlygą: asmenis turi sieti bendras turtas ir (ar) bendros prievolės kreditoriams. Tipiškas atvejis – sutuoktiniai, turintys bendrą būstą ir bendrus kreditus, tačiau įstatymo formuluotė neapsiriboja sutuoktiniais; lemiamas kriterijus yra turtinis ir prievolinis ryšys.
 
 2 dalis numato du procesinius kelius: arba bendrą pareiškimą iškelti bankroto bylą, arba prašymą įstoti į kito asmens inicijuotą bylą. Pastarasis galimas tik iki mokumo atkūrimo plano patvirtinimo; vėlesnis įstojimas sugriautų jau patvirtintą reikalavimų tenkinimo tvarką. Kadangi pagal 1 straipsnio 4 dalį procesą gali inicijuoti tik pats fizinis asmuo, kiekvienas iš bankrutuojančiųjų turi pats išreikšti valią – vienas asmuo negali „įtraukti“ kito.
 
@@ -362,7 +362,7 @@ Svarbiausia yra 2 dalis, kurioje įtvirtintas materialusis bankroto bylos iškė
 
 2 dalis papildomai reikalauja ūkininko ar individualią veiklą vykdančio asmens plane nurodyti veiklos pajamas, reikalingą turtą, veiklai skiriamas lėšas ir numatomus kreditus – tai susiję su 17 straipsnio 9 punktu ir 29 straipsnio 5 dalimi. 3 dalis įtvirtina socialinę garantiją: būtiniesiems poreikiams skiriama suma negali būti mažesnė nei paliekama atliekant išskaitas pagal CPK. 4 dalis reikalauja sumas nurodyti eurais.
 
-5 dalis nustato fiksuotą 3 metų plano įgyvendinimo trukmę, kurią teismas gali pratęsti, kai kreipiamasi į ikiteisminio tyrimo įstaigas dėl BK 207, 208, 209, 216, 222, 223 straipsnių požymių. Fiksuota trukmė suteikia asmeniui aiškią „naujos pradžios“ perspektyvą. 6 dalis leidžia pagal 4-1 straipsnį bankrutuojantiems asmenims rengti bendrą planą.
+5 dalis nustato fiksuotą 3 metų plano įgyvendinimo trukmę, kurią teismas gali pratęsti, kai kreipiamasi į ikiteisminio tyrimo įstaigas dėl BK 207, 208, 209, 216, 222, 223 straipsnių požymių. Fiksuota trukmė suteikia asmeniui aiškią „naujos pradžios“ perspektyvą. 6 dalis leidžia pagal 4¹ straipsnį bankrutuojantiems asmenims rengti bendrą planą.
 
 ### 8 straipsnis — Plano tvirtinimas
 
